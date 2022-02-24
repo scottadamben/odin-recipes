@@ -1,3 +1,5 @@
 # odin-recipes
-Recipe for ice box cake
-This will show ability in p, body, head, headers, links, images
+
+The goal is to create a recipe website in which the recipe for ice box cake is presented 
+this will demonstrate ability in making p, h1, head body
+  
